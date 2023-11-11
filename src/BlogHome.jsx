@@ -31,7 +31,7 @@ export default function BlogHome() {
             </div>
           </div>
         </nav>
-        
+
         <div className="container my-3">
           <div className="row">
             <div className="col-lg-3 m-2 ">
@@ -46,7 +46,7 @@ export default function BlogHome() {
             </div>
 
             <div className="col-lg-4 m-5">
-            <img src="https://wpthemes.themehunk.com/bigstore-marketplace/wp-content/uploads/sites/168/2021/02/main-12.png" className="d-block w-100" alt="..." width="100%" height={"100%"}/>
+              <img src="https://wpthemes.themehunk.com/bigstore-marketplace/wp-content/uploads/sites/168/2021/02/main-12.png" className="d-block w-100" alt="..." width="100%" height={"100%"} />
 
 
             </div>
