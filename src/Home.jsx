@@ -1,67 +1,67 @@
 import React from 'react'
 
-const Category=[
+const Category = [
   {
     id: 1,
-    name:"Suresh"
+    name: "Suresh"
   },
   {
-    id:2,
-    name:"Rokaya"
+    id: 2,
+    name: "Rokaya"
   },
   {
     id: 1,
-    name:"Suresh"
+    name: "Suresh"
   },
   {
-    id:2,
-    name:"Rokaya"
+    id: 2,
+    name: "Rokaya"
   }
 ]
 
-const demend=[
+const demend = [
   {
-    id:1,
-    name:"Aliquam id quam..",
-    Price:"$44.00",
-    image1:"https://wpthemes.themehunk.com/bigstore-marketplace/wp-content/uploads/sites/168/2021/02/proc-320x320.png"
+    id: 1,
+    name: "Aliquam id quam..",
+    Price: "$44.00",
+    image1: "https://wpthemes.themehunk.com/bigstore-marketplace/wp-content/uploads/sites/168/2021/02/proc-320x320.png"
   },
   {
-    id:2 ,
-    name:"Beanie with logo",
-    Price:"$14.000",
-    image1:"https://wpthemes.themehunk.com/bigstore-marketplace/wp-content/uploads/sites/168/2021/02/proc1-1-320x320.png"
+    id: 2,
+    name: "Beanie with logo",
+    Price: "$14.000",
+    image1: "https://wpthemes.themehunk.com/bigstore-marketplace/wp-content/uploads/sites/168/2021/02/proc1-1-320x320.png"
   }
   ,
   {
-    id:3 ,
-    name:"Beanie with logo",
-    Price:"$14.000",
-    image1:"https://wpthemes.themehunk.com/bigstore-marketplace/wp-content/uploads/sites/168/2021/02/proc22-1-320x320.png"
+    id: 3,
+    name: "Beanie with logo",
+    Price: "$14.000",
+    image1: "https://wpthemes.themehunk.com/bigstore-marketplace/wp-content/uploads/sites/168/2021/02/proc22-1-320x320.png"
   }
   ,
   {
-    id:4 ,
-    name:"Beanie with logo",
-    Price:"$14.000",
-    image1:"https://wpthemes.themehunk.com/bigstore-marketplace/wp-content/uploads/sites/168/2021/02/proc4-320x320.png"
+    id: 4,
+    name: "Beanie with logo",
+    Price: "$14.000",
+    image1: "https://wpthemes.themehunk.com/bigstore-marketplace/wp-content/uploads/sites/168/2021/02/proc4-320x320.png"
   }
   ,
   {
-    id:2 ,
-    name:"Beanie with logo",
-    Price:"$14.000",
-    image1:"https://wpthemes.themehunk.com/bigstore-marketplace/wp-content/uploads/sites/168/2021/02/proc5-320x320.png"
+    id: 2,
+    name: "Beanie with logo",
+    Price: "$14.000",
+    image1: "https://wpthemes.themehunk.com/bigstore-marketplace/wp-content/uploads/sites/168/2021/02/proc5-320x320.png"
   }
   ,
   {
-    id:2 ,
-    name:"Beanie with logo",
-    Price:"$14.000",
-    image1:"https://wpthemes.themehunk.com/bigstore-marketplace/wp-content/uploads/sites/168/2021/02/proc6-320x320.png"
+    id: 2,
+    name: "Beanie with logo",
+    Price: "$14.000",
+    image1: "https://wpthemes.themehunk.com/bigstore-marketplace/wp-content/uploads/sites/168/2021/02/proc6-320x320.png"
 
   }
-  
+
 
 ]
 export default function Home() {
@@ -87,7 +87,7 @@ export default function Home() {
           <div className="col-lg-3 m-0 ">
             <div className="row">
               <div className="col-lg-8 m-0">
-                  <img src="https://wpthemes.themehunk.com/bigstore-marketplace/wp-content/uploads/sites/168/2021/02/main5.png" alt="" />
+                <img src="https://wpthemes.themehunk.com/bigstore-marketplace/wp-content/uploads/sites/168/2021/02/main5.png" alt="" />
               </div>
               <div className="col-lg-8">
                 <img src="https://wpthemes.themehunk.com/bigstore-marketplace/wp-content/uploads/sites/168/2021/02/main8.png" alt="" />
@@ -96,27 +96,27 @@ export default function Home() {
           </div>
 
           <div className="col-lg-6 m-0">
-  <div id="carouselExampleFade" className="carousel slide carousel-fade" data-bs-ride="carousel">
-  <div className="carousel-inner">
-    <div className="carousel-item active">
-      <img src="https://wpthemes.themehunk.com/bigstore-marketplace/wp-content/uploads/sites/168/2021/02/main-12.png" className="d-block w-100" alt="..." width="100%" />
-    </div>
-    <div className="carousel-item">
-      <img src="https://wpthemes.themehunk.com/bigstore-marketplace/wp-content/uploads/sites/168/2021/02/main-11.png" className="d-block w-100" alt="..." />
-    </div>
-    <div className="carousel-item">
-      <img src="..." className="d-block w-100" alt="..." />
-    </div>
-  </div>
-  <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
-    <span className="carousel-control-prev-icon" aria-hidden="true" />
-    <span className="visually-hidden">Previous</span>
-  </button>
-  <button className="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
-    <span className="carousel-control-next-icon" aria-hidden="true" />
-    <span className="visually-hidden">Next</span>
-  </button>
-</div>
+            <div id="carouselExampleFade" className="carousel slide carousel-fade" data-bs-ride="carousel">
+              <div className="carousel-inner">
+                <div className="carousel-item active">
+                  <img src="https://wpthemes.themehunk.com/bigstore-marketplace/wp-content/uploads/sites/168/2021/02/main-12.png" className="d-block w-100" alt="..." width="100%" />
+                </div>
+                <div className="carousel-item">
+                  <img src="https://wpthemes.themehunk.com/bigstore-marketplace/wp-content/uploads/sites/168/2021/02/main-11.png" className="d-block w-100" alt="..." />
+                </div>
+                <div className="carousel-item">
+                  <img src="..." className="d-block w-100" alt="..." />
+                </div>
+              </div>
+              <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+                <span className="carousel-control-prev-icon" aria-hidden="true" />
+                <span className="visually-hidden">Previous</span>
+              </button>
+              <button className="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
+                <span className="carousel-control-next-icon" aria-hidden="true" />
+                <span className="visually-hidden">Next</span>
+              </button>
+            </div>
 
           </div>
 
@@ -127,21 +127,21 @@ export default function Home() {
       </div>
 
 
-          <section>
-            <h2>On Demend</h2>
-            <hr />
-           <div className="container-fluid">
-             <div className="row">
-               
-                  {demend.map((tt)=>(
-                    <div className="col-lg-2 ">
-                      <img src={tt.image1} alt="" width="100%" />
-                    </div>
-                  ))}
-               </div>
-             </div>
-          
-          </section>
+      <section>
+        <h2>On Demend</h2>
+        <hr />
+        <div className="container-fluid">
+          <div className="row">
+
+            {demend.map((tt) => (
+              <div className="col-lg-2 " >
+                <img src={tt.image1} alt="" width="100%" />
+              </div>
+            ))}
+          </div>
+        </div>
+
+      </section>
 
       {/* <div className="container-fluid">
         <div className="row">
