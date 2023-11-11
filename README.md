@@ -5,7 +5,7 @@
 Briefly describe the purpose and goals of your project. Highlight its main features and functionalities. Include any relevant information about the technologies used.
 
 ## Table of Contents
-
+- Demo
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -15,6 +15,8 @@ Briefly describe the purpose and goals of your project. Highlight its main featu
 - [Built With](#built-with)
 - [Contributing](#contributing)
 
+## Demo
+You can view a live demo of the project [here](https://github.com/ROKAYASURESH/React-Js-First-Project-Practice/assets/127000485/b142d614-e7fa-444b-bc69-4e697a365839).
 ## Getting Started
 
 Provide instructions on how to set up the project locally. Include information about any prerequisites, and step-by-step instructions for installation.
@@ -28,7 +30,7 @@ Provide instructions on how to set up the project locally. Include information a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/React-Js-First-Project-Practice.git
+   git clone https://github.com/ROKAYASURESH/React-Js-First-Project-Practice.git
    ```
 
 2. Navigate to the project directory:
