@@ -5,7 +5,7 @@
 Briefly describe the purpose and goals of your project. Highlight its main features and functionalities. Include any relevant information about the technologies used.
 
 ## Table of Contents
-- Demo
+- [Demo](#demo)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
